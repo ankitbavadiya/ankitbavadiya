@@ -15,4 +15,4 @@
 
 ---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ankitbavadiya&show_icons=true" alt="adityaoberai" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ankitbavadiya&show_icons=true&theme=dark" alt="ankitbavadiya" /></p>
