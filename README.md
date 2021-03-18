@@ -16,3 +16,8 @@
 ---
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ankitbavadiya&show_icons=true&theme=dark" alt="ankitbavadiya" /></p>
+
+<p> 
+  Welcome buddy 👋🏻! You're visitor No. <br>
+  <img src="https://profile-counter.glitch.me/HarshMakadia/count.svg" />
+</p>
