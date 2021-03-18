@@ -19,5 +19,5 @@
 
 <p> 
   Welcome buddy 👋🏻! You're visitor No. <br>
-  <img src="https://profile-counter.glitch.me/HarshMakadia/count.svg" />
+  <img src="https://profile-counter.glitch.me/ankitbavadiya/count.svg" />
 </p>
