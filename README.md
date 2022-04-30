@@ -1,7 +1,7 @@
 ### Hey there 👋
 
 #### I am Ankit Bavadiya (he/him)👦, 
-Currently, I am a full-time Full stack developer for the last 2 years. I am also actively working on various projects which come under the umbrella of Machine Learning and Chabot development. DevOps is my forte and practicing throughout the life cycle of various projects.
+Currently, I am a full-time Full stack developer for the last 3 years. I am also actively working on various projects which come under the umbrella of Machine Learning and Chabot development. DevOps is my forte and practicing throughout the life cycle of various projects.
 
 ---
 
