@@ -14,8 +14,3 @@ For any feature request, please ping me at &nbsp; [![Contact Badge](https://img.
 [![Twitter Badge](https://img.shields.io/badge/-BavadiyaAnkit-blue?style=plastic&logo=Twitter&logoColor=white&link=https://twitter.com/BavadiyaAnkit/)](https://twitter.com/BavadiyaAnkit/)
 [![Gmail Badge](https://img.shields.io/badge/abavadiya10@gmail.com-white?style=plastic&logo=Gmail&logoColor=&link=mailto:abavadiya10@gmail.com)](mailto:abavadiya10@gmail.com)
 [![Youtube Badge](https://img.shields.io/badge/-abs_webzone-black?style=plastic&logo=youtube&logoColor=white&link=https://www.youtube.com/channel/UC2Bg1JaAeMnoVdIESuq7MuA)](https://www.youtube.com/channel/UC2Bg1JaAeMnoVdIESuq7MuA)
-
-
----
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ankitbavadiya&show_icons=true&theme=dark" alt="ankitbavadiya" /></p>
