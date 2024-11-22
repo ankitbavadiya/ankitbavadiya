@@ -1,7 +1,7 @@
 ### Hey there 👋
 
 #### I am Ankit Bavadiya (he/him)👦, 
-Currently, I am a full-time Full stack developer for the last 3 years. I am also actively working on various projects which come under the umbrella of Machine Learning and Chabot development. DevOps is my forte and practicing throughout the life cycle of various projects.
+Currently, I am a full-time Full stack developer for the last 6 years. I am also actively working on various projects which come under the umbrella of Machine Learning and Chabot development. DevOps is my forte and practicing throughout the life cycle of various projects.
 
 ---
 For any feature request, please ping me at &nbsp; [![Contact Badge](https://img.shields.io/badge/abavadiya10@gmail.com-white?style=plastic&logo=Minutemailer&logoColor=&link=abavadiya10@gmail.com)](mailto:abavadiya10@gmail.com)
